@@ -56,6 +56,7 @@ Repositori ini adalah dasar untuk **mengalokasikan kamar tamu** Sunari Beach Res
   4. Ketentuan DP 50%, pelunasan saat check-in, pembayaran transfer atau cash
   5. Kebijakan pembatalan: DP tidak dikembalikan, bisa reschedule maks. 1 tahun sejak tanggal pembatalan
   6. Kontak: WhatsApp 0821-8903-3044 (Bli Eka / Sofyan)
+- **Jangan cantumkan nomor kamar** di pesan untuk tamu; cukup tipe kamar dan jumlah orang. Nomor kamar hanya untuk admin dan `BOOKING.md`.
 - Tambahkan info transport/fasilitas dari `INFO_RESORT.md` hanya jika relevan atau diminta.
 - **Paket Transfer Makassar – Sunari tidak dicantumkan harganya**; arahkan tamu bertanya via WhatsApp.
 - Jika `TEMPLATE_PESAN.md` ada, ikuti format di dalamnya.
