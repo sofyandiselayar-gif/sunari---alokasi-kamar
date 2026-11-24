@@ -37,8 +37,10 @@ Kapal KM Dharma Kartika berangkat dari Makassar langsung ke kota Benteng, Selaya
 - Rp400.000 (5-8 orang)
 
 ### Paket Transfer Makassar – Sunari
-- Full Private Car (termasuk feri): mulai Rp1.950.000 (1 orang, 1 mobil)
-- Bus Premium + Shuttle: mulai Rp1.100.000 (1 orang)
+- Full Private Car (termasuk feri)
+- Bus Premium + Shuttle
+
+Harga paket transfer silakan ditanyakan langsung melalui WhatsApp.
 
 **Catatan:**
 - 1 mobil memuat maksimal 4 orang + 4 koper sedang

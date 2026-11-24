@@ -19,4 +19,4 @@
 
 ## Pembatalan & Reschedule
 - **DP tidak dapat dikembalikan** jika pemesanan dibatalkan.
-- Tamu dapat **reschedule** (pindah tanggal) dengan batas waktu **maksimal 1 tahun**.
+- Tamu dapat **reschedule** (pindah tanggal) dengan batas waktu **maksimal 1 tahun sejak tanggal pembatalan**.
