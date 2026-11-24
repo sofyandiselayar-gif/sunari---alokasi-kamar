@@ -4,11 +4,11 @@ Status: **Penawaran** (belum DP) · **DP** (DP 50% diterima) · **Lunas** · **B
 
 | Nama Tamu | Check-in | Check-out | Malam | Jumlah Tamu | No. Kamar | Total | DP 50% | Status |
 |---|---|---|---|---|---|---|---|---|
-| Andi Titi | 21 Des 2026 | 23 Des 2026 | 2 | 40 | 5, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 | Rp28.400.000 | Rp14.200.000 | Penawaran |
+| Andi Titi | Belum ditentukan | Belum ditentukan | 1 | 40 | 5, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 | Rp14.200.000 | Rp7.100.000 | Penawaran |
 
 ## Detail Booking
 
-### Andi Titi – 21–23 Des 2026 (40 orang)
+### Andi Titi – tanggal belum ditentukan, penawaran 1 malam (40 orang)
 | No | Kamar | Tipe | Bed | Orang | Extrabed |
 |---|---|---|---|---|---|
 | 5 | Family Bungalow / Pagoda | Family Superior | Double | 8 | 2 |
