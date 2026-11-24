@@ -14,8 +14,9 @@
 
 ## Pembayaran
 - **DP 50%** dari total biaya untuk mengonfirmasi pemesanan.
-- Pelunasan: *(perlu dilengkapi – misalnya saat check-in)*
-- Metode pembayaran: *(perlu dilengkapi – transfer bank / tunai / QRIS)*
+- **Pelunasan:** sisa 50% dibayar saat check-in.
+- **Metode pembayaran:** transfer bank atau tunai (cash).
 
-## Pembatalan
-- *(perlu dilengkapi – misalnya apakah DP dapat dikembalikan)*
+## Pembatalan & Reschedule
+- **DP tidak dapat dikembalikan** jika pemesanan dibatalkan.
+- Tamu dapat **reschedule** (pindah tanggal) dengan batas waktu **maksimal 1 tahun**.

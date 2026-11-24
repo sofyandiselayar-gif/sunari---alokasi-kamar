@@ -17,7 +17,7 @@
 | 3 | Supteng (Superior Tengah) | Superior | King | Ya | Tidak |
 | 4 | Supsel (Superior Selatan) | Superior | King | Ya | Tidak |
 | 5 | Family Bungalow / Pagoda | Family Superior | Double | Ya | Ya (lantai 2 di dalam kamar) |
-| 6 | Lumting (Lumbung Tingkat) | Standard | Double | Ya | Tidak* |
+| 6 | Lumting (Lumbung Tingkat) | Standard | Double | Ya | Tidak |
 | 7 | Lumcil (Lumbung Kecil) | VIP Standard | King | Ya | Tidak |
 | 8 | TR 1 | Standard | Double | Ya | Tidak |
 | 9 | TR 2 | Standard | Double | Ya | Tidak |
@@ -36,8 +36,6 @@
 | 22 | TR 15 / Villa Tingkat Lt. 2 Tengah | Standard | Twin | Tidak | Ya |
 | 23 | TR 16 / Villa Tingkat Lt. 2 Selatan | Standard | Twin | Tidak | Ya |
 | 24 | Kamar Baruga | Standard | Double | Tidak | Tidak |
-
-\* *Lumbung Tingkat (No. 6): perlu dikonfirmasi apakah tempat tidurnya di atas (perlu naik tangga).*
 
 **Ringkasan tempat tidur:**
 - King bed: No. 2, 3, 4, 7
